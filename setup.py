@@ -12,8 +12,8 @@ setup(
         author_email='steve.scchiu@gmail.com',
         packages=['dgpn'],
         install_requires=[
-            'keras',
-            'tensorflow',
+            'keras==2.1.1',
+            'tensorflow==1.4.1',
             'pandas',
             'sklearn'
             ],
