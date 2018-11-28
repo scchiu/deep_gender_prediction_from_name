@@ -15,7 +15,8 @@ setup(
             'keras==2.1.1',
             'tensorflow==1.4.1',
             'pandas',
-            'sklearn'
+            'sklearn',
+            'flask'
             ],
         scripts=[]
 )
